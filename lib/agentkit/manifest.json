@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "product": "pipmcp",
+  "credential": "PIPMCP_API_KEY",
+  "skills": [
+    {
+      "name": "pipmcp-jotform",
+      "description": "Connect AI agents to Jotform using one PipMCP API key and actual hosted tool discovery."
+    }
+  ],
+  "files": {
+    "skills/pipmcp-jotform/SKILL.md": "361502effb1f55d0b290ec0341cac0370144551698b823fca2a7fd8e9e77b33e"
+  }
+}
